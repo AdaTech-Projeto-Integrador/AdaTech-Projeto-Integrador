@@ -1,4 +1,6 @@
-<img src="https://cdn.discordapp.com/attachments/941393120183062589/960636523722715136/20220404_151848.jpg" min-width="400px" max-width="460px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://cdn.discordapp.com/attachments/941393120183062589/960636523722715136/20220404_151848.jpg">
+
+
 
 ## <p align="center"> `<> Olá, Bem Vindo ao Projeto Ada Tech </>` </p> 
  

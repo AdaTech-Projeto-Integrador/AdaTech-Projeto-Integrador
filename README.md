@@ -39,7 +39,7 @@
     </td>
    <td align="center"><a href="https://github.com/michellemadeira1"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88059905?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Madeira</b></sub></a><br /><a href="https://www.linkedin.com/in/michelle-silva-madeira-8184aa189/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>
-   <td align="center"><a href="https://github.com/NadyneBarbieri"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97990821?v=4" width="100px;" alt=""/><br /><sub><b>Nadyne Barbieri</b></sub></a><br /><a href="https://www.linkedin.com/in/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+   <td align="center"><a href="https://github.com/NadyneBarbieri"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97990821?v=4" width="100px;" alt=""/><br /><sub><b>Nadyne Barbieri</b></sub></a><br /><a href="https://www.linkedin.com/in/nadynebarbieri/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>
   </table>
   

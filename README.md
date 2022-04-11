@@ -1,14 +1,15 @@
 <img src="https://cdn.discordapp.com/attachments/941393120183062589/960636523722715136/20220404_151848.jpg">
 
-
-
 ## <p align="center"> `<> Olá, Bem Vindo ao Projeto Ada Tech </>` </p> 
  
 <h4 align="center">
 
 <h2 id="Sobre"> Sobre o Projeto: </h2>
 
-
+ Com inspiração na história de Ada Lovelade, matemática e escritora inglesa considerada a primeira programadora da históri, AdaTech surge com o objetivo de criar uma rede de integração entre mulheres profissionais da tecnologia.
+ Um espaço inovador e seguro de troca entre profissionais e empresas, por um mercado mais diverso e igualitário.
+ 
+ <h2 id=site> Visite nosso site <h2>
 
   <h2 id="Etapas">Etapas do Desenvolvimento: </h2>
   
@@ -28,7 +29,11 @@
 <img align="center" alt="Bootstrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></p>
 
 # Equipe 
-| [<img src="https://avatars.githubusercontent.com/u/98328426?v=4" width=115><br><sub>Carlos Kelvin</sub>](https://github.com/carloskelvinn13) |  [<img src="https://avatars.githubusercontent.com/u/89699551?v=4" width=115><br><sub>Fábio Ferreira</sub>](https://github.com/fabiosfjr) |  [<img src="https://avatars.githubusercontent.com/u/97956789?v=4" width=115><br><sub>Guilherme Petro</sub>](https://github.com/guilherme-petro) |   [<img src="https://avatars.githubusercontent.com/u/92352134?v=4" width=115><br><sub>Igor Luan</sub>](https://github.com/igorluan95) |  [<img src="https://avatars.githubusercontent.com/u/98171057?v=4" width=115><br><sub>Layane Pereira</sub>](https://github.com/LayannePereira) | [<img src="https://avatars.githubusercontent.com/u/88059905?v=4" width=115><br><sub>Michelle Madeira</sub>](https://github.com/michellemadeira1) | |  [<img src="https://avatars.githubusercontent.com/u/97990821?v=4" width=115><br><sub>Nadyne Barbieri</sub>](https://github.com/NadyneBarbieri) 
+  <table>
+  <tr>
+    <td align="center"><a href="https://github.com/carloskelvinn13"><img style="border-radius: 50%;" src="https://elevaredesocial.vercel.app/static/media/augusto.682642726dfb24d266c6.jpeg" width="100px;" alt=""/><br /><sub><b>Carlos Kelvin</b></sub></a><br /><a href="https://www.linkedin.com/in/augusto-vicente-alves-a05899224/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    </td>
+| [<img src="" width=115><br><sub></sub>]()  |  [<img src="https://avatars.githubusercontent.com/u/89699551?v=4" width=115><br><sub>Fábio Ferreira</sub>](https://github.com/fabiosfjr) |  [<img src="https://avatars.githubusercontent.com/u/97956789?v=4" width=115><br><sub>Guilherme Petro</sub>](https://github.com/guilherme-petro) |   [<img src="https://avatars.githubusercontent.com/u/92352134?v=4" width=115><br><sub>Igor Luan</sub>](https://github.com/igorluan95) |  [<img src="https://avatars.githubusercontent.com/u/98171057?v=4" width=115><br><sub>Layane Pereira</sub>](https://github.com/LayannePereira) | [<img src="https://avatars.githubusercontent.com/u/88059905?v=4" width=115><br><sub>Michelle Madeira</sub>](https://github.com/michellemadeira1) | |  [<img src="https://avatars.githubusercontent.com/u/97990821?v=4" width=115><br><sub>Nadyne Barbieri</sub>](https://github.com/NadyneBarbieri) 
 | :---: | :---: | :---: |  :---: |  :---: | :---: |  :---: |  :---: |
 
 

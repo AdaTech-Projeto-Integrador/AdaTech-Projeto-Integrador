@@ -24,7 +24,7 @@
 <img align="center" alt="MySQL" height="30" width="80" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
 <img align="center" alt="Bootstrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></p>
 
-# Equipe 
+<h2 id="equipe"> Desenvolvedores </h2>
   <table>
   <tr>
     <td align="center"><a href="https://github.com/carloskelvinn13"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98328426?v=4" width="100px;" alt=""/><br /><sub><b>Carlos Kelvin</b></sub></a><br /><a href="https://www.linkedin.com/in/carlos-kelvin-gomes-de-sousa-10675677/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
@@ -41,7 +41,8 @@
     </td>
    <td align="center"><a href="https://github.com/NadyneBarbieri"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97990821?v=4" width="100px;" alt=""/><br /><sub><b>Nadyne Barbieri</b></sub></a><br /><a href="https://www.linkedin.com/in/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>
-   
-<h4 align="center"> 
+  </table>
+  
+  <h2 id=informação align="center"> 
     :construction:  Projeto em andamento  :construction:
-</h4>
+</h2>

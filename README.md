@@ -31,13 +31,21 @@
 # Equipe 
   <table>
   <tr>
-    <td align="center"><a href="https://github.com/carloskelvinn13"><img style="border-radius: 50%;" src="https://elevaredesocial.vercel.app/static/media/augusto.682642726dfb24d266c6.jpeg" width="100px;" alt=""/><br /><sub><b>Carlos Kelvin</b></sub></a><br /><a href="https://www.linkedin.com/in/augusto-vicente-alves-a05899224/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    <td align="center"><a href="https://github.com/carloskelvinn13"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98328426?v=4" width="100px;" alt=""/><br /><sub><b>Carlos Kelvin</b></sub></a><br /><a href="https://www.linkedin.com/in/carlos-kelvin-gomes-de-sousa-10675677/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>
-| [<img src="" width=115><br><sub></sub>]()  |  [<img src="https://avatars.githubusercontent.com/u/89699551?v=4" width=115><br><sub>Fábio Ferreira</sub>](https://github.com/fabiosfjr) |  [<img src="https://avatars.githubusercontent.com/u/97956789?v=4" width=115><br><sub>Guilherme Petro</sub>](https://github.com/guilherme-petro) |   [<img src="https://avatars.githubusercontent.com/u/92352134?v=4" width=115><br><sub>Igor Luan</sub>](https://github.com/igorluan95) |  [<img src="https://avatars.githubusercontent.com/u/98171057?v=4" width=115><br><sub>Layane Pereira</sub>](https://github.com/LayannePereira) | [<img src="https://avatars.githubusercontent.com/u/88059905?v=4" width=115><br><sub>Michelle Madeira</sub>](https://github.com/michellemadeira1) | |  [<img src="https://avatars.githubusercontent.com/u/97990821?v=4" width=115><br><sub>Nadyne Barbieri</sub>](https://github.com/NadyneBarbieri) 
-| :---: | :---: | :---: |  :---: |  :---: | :---: |  :---: |  :---: |
-
-
-
+   <td align="center"><a href="https://github.com/fabiosfjr"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89699551?v=4" width="100px;" alt=""/><br /><sub><b>Fábio Ferreira</b></sub></a><br /><a href="https://www.linkedin.com/in/fábiosferreirajr" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    </td>
+    <td align="center"><a href="https://github.com/guilherme-petro"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97956789?v=4" width="100px;" alt=""/><br /><sub><b>Guilherme Petro</b></sub></a><br /><a href="https://www.linkedin.com/in/guilhermepetro/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    </td>
+   <td align="center"><a href="https://github.com/igorluan95"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92352134?v=4" width="100px;" alt=""/><br /><sub><b>Igor Luan</b></sub></a><br /><a href="https://www.linkedin.com/in/igorluan95/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    </td>
+   <td align="center"><a href="https://github.com/LayannePereira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98171057?v=4" width="100px;" alt=""/><br /><sub><b>Layane Pereira</b></sub></a><br /><a href="https://www.linkedin.com/in/LayannePereira" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    </td>
+   <td align="center"><a href="https://github.com/michellemadeira1"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88059905?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Madeira</b></sub></a><br /><a href="https://www.linkedin.com/in/michelle-silva-madeira-8184aa189/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    </td>
+   <td align="center"><a href="https://github.com/NadyneBarbieri"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97990821?v=4" width="100px;" alt=""/><br /><sub><b>Nadyne Barbieri</b></sub></a><br /><a href="https://www.linkedin.com/in/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    </td>
+   
 <h4 align="center"> 
     :construction:  Projeto em andamento  :construction:
 </h4>

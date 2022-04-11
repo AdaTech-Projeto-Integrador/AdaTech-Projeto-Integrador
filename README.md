@@ -1,4 +1,4 @@
-<img src="https://cdn.discordapp.com/attachments/941393120183062589/960636523722715136/20220404_151848.jpg">
+<img src="https://discordapp.com/channels/927648513414807632/941393120183062589/963065620021260338">
 
 ## <p align="center"> `<> Olá, Bem Vindo ao Projeto Ada Tech </>` </p> 
  

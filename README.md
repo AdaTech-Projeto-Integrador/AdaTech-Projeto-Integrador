@@ -1,4 +1,4 @@
-<img src="https://discordapp.com/channels/927648513414807632/941393120183062589/963065620021260338">
+<img src="https://images-ext-1.discordapp.net/external/7rrCAZSTtL3tpGpQC-JIJgLZtEOlIMSZ0vE9qikRlF4/https/i.imgur.com/Zp3eWm2.png">
 
 ## <p align="center"> `<> Olá, Bem Vindo ao Projeto Ada Tech </>` </p> 
  
@@ -10,11 +10,7 @@
  Um espaço inovador e seguro de troca entre profissionais e empresas, por um mercado mais diverso e igualitário.
  
  <h2 id=site> Visite nosso site <h2>
-
-  <h2 id="Etapas">Etapas do Desenvolvimento: </h2>
-  
-  
-  <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="600px" max-width="600px" width="450px" align="right" alt="Computador iuriCode">
+ 
  
   <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
@@ -39,7 +35,7 @@
     </td>
    <td align="center"><a href="https://github.com/igorluan95"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/92352134?v=4" width="100px;" alt=""/><br /><sub><b>Igor Luan</b></sub></a><br /><a href="https://www.linkedin.com/in/igorluan95/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>
-   <td align="center"><a href="https://github.com/LayannePereira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98171057?v=4" width="100px;" alt=""/><br /><sub><b>Layane Pereira</b></sub></a><br /><a href="https://www.linkedin.com/in/LayannePereira" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+   <td align="center"><a href="https://github.com/LayannePereira"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98171057?v=4" width="100px;" alt=""/><br /><sub><b>Layane Pereira</b></sub></a><br /><a href="https://www.linkedin.com/in/layane-pereira-84b95a229/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>
    <td align="center"><a href="https://github.com/michellemadeira1"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/88059905?v=4" width="100px;" alt=""/><br /><sub><b>Michelle Madeira</b></sub></a><br /><a href="https://www.linkedin.com/in/michelle-silva-madeira-8184aa189/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>

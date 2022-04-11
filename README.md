@@ -1,6 +1,6 @@
 <img src="https://images-ext-1.discordapp.net/external/7rrCAZSTtL3tpGpQC-JIJgLZtEOlIMSZ0vE9qikRlF4/https/i.imgur.com/Zp3eWm2.png">
 
-## <p align="center"> `<> Olá, Bem Vindo ao Projeto Ada Tech </>` </p> 
+## <p align="center"> `<> Olá, Bem Vindo ao Projeto AdaTech </>` </p> 
  
 <h4 align="center">
 

@@ -19,8 +19,11 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat&logo=mysql&logoColor=4479A1&)
 ![Postman](https://img.shields.io/badge/-Postman-white?style=flat&logo=Postman&logoColor=FF6C37&)
 ![Swagger](https://img.shields.io/badge/-Swagger-white?style=flat&logo=Swagger&logoColor=6DB33F&)
-![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat&logo=Heroku&logoColor=430098&)
+![Heroku](https://img.shields.io/badge/-Heroku-white?style=flat&logo=Heroku&logoColor=430098&)4
 
+  <img src="https://i.imgur.com/bwQDouI.png" min-width="400px" max-width="400px" width="400px" align="right">
+ 
+ 
 ## Tecnologias que utilizo no Front-end:
 ![VSCode](https://img.shields.io/badge/-VSCode-white?style=flat&logo=visualstudiocode&logoColor=007ACC&)
 ![Angular](https://img.shields.io/badge/-AngularJS-white?style=flat&logo=Angular&logoColor=DD0031&)

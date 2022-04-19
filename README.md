@@ -1,18 +1,17 @@
-<img src="https://images-ext-1.discordapp.net/external/7rrCAZSTtL3tpGpQC-JIJgLZtEOlIMSZ0vE9qikRlF4/https/i.imgur.com/Zp3eWm2.png">
+<div align="center">
+<img src="https://i.imgur.com/ejLGDet.jpg">
+ </div>
 
 ## <p align="center"> `<> Olá, Bem Vindo ao Projeto AdaTech </>` </p> 
  
 <h4 align="center">
 
-<h2 id="Sobre"> Sobre o Projeto: </h2>
+<h2 id="Sobre"> Sobre o Projeto </h2>
 
  Com inspiração na história de Ada Lovelade, matemática e escritora inglesa considerada a primeira programadora da históri, AdaTech surge com o objetivo de criar uma rede de integração entre mulheres profissionais da tecnologia.
  Um espaço inovador e seguro de troca entre profissionais e empresas, por um mercado mais diverso e igualitário.
  
- <h2 id=site> Visite nosso site <h2>
- 
- 
-  <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
+ <h2 id="linguagens">Softwares & Ferramentas utilizadas nesse projeto 📚</h2>
 
  <p><img align="center" alt="Java" height="30" width="80" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
 <img align="center" alt="Node JS" height="30" width="80" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
@@ -25,9 +24,10 @@
 <img align="center" alt="Bootstrap" height="30" width="80" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"></p>
 
 <h2 id="equipe"> Desenvolvedores </h2>
+ <div align="center">
   <table>
   <tr>
-    <td align="center"><a href="https://github.com/carloskelvinn13"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/98328426?v=4" width="100px;" alt=""/><br /><sub><b>Carlos Kelvin</b></sub></a><br /><a href="https://www.linkedin.com/in/carlos-kelvin-gomes-de-sousa-10675677/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
+    <td align="center"><a href="https://github.com/carloskelvinn13"><img style="border-radius: 50%;" src="https://i.imgur.com/xvJupNO.png" width="100px;" alt=""/><br /><sub><b>Carlos Kelvin</b></sub></a><br /><a href="https://www.linkedin.com/in/carlos-kelvin-gomes-de-sousa-10675677/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>
    <td align="center"><a href="https://github.com/fabiosfjr"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/89699551?v=4" width="100px;" alt=""/><br /><sub><b>Fábio Ferreira</b></sub></a><br /><a href="https://www.linkedin.com/in/fábiosferreirajr" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>
@@ -42,7 +42,8 @@
    <td align="center"><a href="https://github.com/NadyneBarbieri"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/97990821?v=4" width="100px;" alt=""/><br /><sub><b>Nadyne Barbieri</b></sub></a><br /><a href="https://www.linkedin.com/in/nadynebarbieri/" title="linkedin"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="20"/></a>
     </td>
   </table>
+ </div>
+  <h2 id=site> Visite nosso site </h2>
+ http://projetoadatech.netlify.app
   
-  <h2 id=informação align="center"> 
-    :construction:  Projeto em andamento  :construction:
-</h2>
+
